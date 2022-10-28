@@ -1,0 +1,10 @@
+{
+  "_id": "ObjectId",
+  "creator": "ObjectId",
+  "text": "String",
+  "images": ["String"],
+  "tags": ["String"],
+  "status": ["String"],
+  "banned": "Boolean",
+  "createdAt": "Date"
+}

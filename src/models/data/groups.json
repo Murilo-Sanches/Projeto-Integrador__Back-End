@@ -1,0 +1,9 @@
+{
+  "_id": "ObjectId",
+  "creator": "ObjectId",
+  "members": ["ObjectId"],
+  "status": ["String"],
+  "banned": "Boolean",
+  "createdAt": "Date"
+}
+

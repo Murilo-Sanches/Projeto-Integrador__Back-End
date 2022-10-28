@@ -1,0 +1,9 @@
+{
+  "_id": "ObjectId",
+  "writter": "ObjectId",
+  "user": "ObjectId",
+  "group": "ObjectId",
+  "text": "String",
+  "status": ["String"],
+  "createdAt": "Date"
+}

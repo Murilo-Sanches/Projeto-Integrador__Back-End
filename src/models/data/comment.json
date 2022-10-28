@@ -1,0 +1,10 @@
+{
+  "_id": "ObjectId",
+  "creator": "ObjectId",
+  "target": "ObjectId",
+  "text": "String",
+  "likes": "Number",
+  "dislikes": "Number",
+  "status": ["String"],
+  "createdAt": "Date"
+}
